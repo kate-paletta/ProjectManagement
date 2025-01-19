@@ -1,45 +1,42 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and this project adheres to [Semantic Versioning](https://semver.org/).
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/).
 
-## [Unreleased] - yyyy-mm-dd
-
-Here we write upgrading notes for brands. It's a team effort to make them as straightforward as possible.
-
-### Added
-
-- **PROJECTNAME-XXXX** MINOR Ticket title goes here.
-- **PROJECTNAME-YYYY** PATCH Ticket title goes here.
-
-### Changed
-
-### Fixed
-
----
-
-## [1.2.4] - 2017-03-15
-
-Here we would have the update steps for 1.2.4 for people to follow.
+## [Unreleased]
 
 ### Added
 
-- **PROJECTNAME-ZZZZ** PATCH Drupal.org is now used for composer.
+<!-- - Description of new features or functionality. -->
+
+1/18/2025 - Overall - Each team member added 5 features to Jira
 
 ### Changed
 
+<!-- - Details of changes to existing features. -->
+
+### Deprecated
+
+<!-- - Features that are being phased out. -->
+
+### Removed
+
+<!-- - Features removed from the project. -->
+
+1/18/2025 - Removed duplicate feature items in the Jira back log
+
 ### Fixed
 
----
+<!-- - Bug fixes. -->
 
-## [1.2.3] - 2017-03-14
+### Security
+
+<!-- - Security updates. -->
+
+## [1.0.0] - YYYY-MM-DD
 
 ### Added
 
-### Changed
-
-### Fixed
-
-- **PROJECTNAME-UUUU** MINOR Fix module foo tests.
-- **PROJECTNAME-RRRR** MAJOR Module foo’s timeline uses the browser timezone for date resolution.
+- Initial release.
